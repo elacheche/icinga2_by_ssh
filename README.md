@@ -5,7 +5,7 @@ Icinga2 checks using the by_ssh plugin
 python-paramiko
 
 # Steps
-I'll use the check-linux-by-ssh scripts made by @naparuba for Shinken project, please refer the the repo to read more about the license.
+I'll use the check-linux-by-ssh scripts made by [naparuba](https://github.com/naparuba) for the [Shinken project](http://www.shinken-monitoring.org/), please refer the the repo to read more about the license.
 
 ## Clone the scripts
 
